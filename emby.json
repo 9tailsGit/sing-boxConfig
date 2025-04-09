@@ -2,7 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [
+      "domain":[
         "jcf.niceduck.lol",
         "cf.niceduck.lol",
         "vi.niceduck.lol",
@@ -13,6 +13,11 @@
         "loacl.emby.moe",
         "iris.niceduck.lol",
         "cf.irisnb.com"
+      ],
+      "domain_suffix": [
+        "niceduck.lol",
+        "emby.moe",
+        "irisnb.com"
       ]
     }
   ]

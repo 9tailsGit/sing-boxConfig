@@ -4,14 +4,14 @@ DOMAIN-SUFFIX,niceduck.lol
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100  
 #好鸭列表
-DOMAIN-SUFFIX,jcf.niceduck.lol
-DOMAIN-SUFFIX,cf.niceduck.lol
-DOMAIN-SUFFIX,vi.niceduck.lol
-DOMAIN-SUFFIX,dpxcf.niceduck.lol
-DOMAIN-SUFFIX,xxlb.net
-DOMAIN-SUFFIX,cfloacl.emby.moe
-DOMAIN-SUFFIX,cfloacl2.emby.moe
-DOMAIN-SUFFIX,loacl2.emby.moe
-DOMAIN-SUFFIX,loacl.emby.moe
-DOMAIN-SUFFIX,iris.niceduck.lol
-DOMAIN-SUFFIX,cf.irisnb.com
+DOMAIN,jcf.niceduck.lol
+DOMAIN,cf.niceduck.lol
+DOMAIN,vi.niceduck.lol
+DOMAIN,dpxcf.niceduck.lol
+DOMAIN,xxlb.net
+DOMAIN,cfloacl.emby.moe
+DOMAIN,cfloacl2.emby.moe
+DOMAIN,loacl2.emby.moe
+DOMAIN,loacl.emby.moe
+DOMAIN,iris.niceduck.lol
+DOMAIN,cf.irisnb.com

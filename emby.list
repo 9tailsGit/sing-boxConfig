@@ -1,0 +1,19 @@
+# Emby补充列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,qichiyu.com
+
+# 域名关键字匹配
+#DOMAIN-KEYWORD,1e100  
+#好鸭列表
+DOMAIN,jcf.niceduck.lol
+DOMAIN,cf.niceduck.lol
+DOMAIN,vi.niceduck.lol
+DOMAIN,dpxcf.niceduck.lol
+DOMAIN-SUFFIX,xxlb.net
+DOMAIN,cfloacl.emby.moe
+DOMAIN,cfloacl2.emby.moe
+DOMAIN,loacl2.emby.moe
+DOMAIN,loacl.emby.moe
+DOMAIN,iris.niceduck.lol
+DOMAIN,cf.irisnb.com

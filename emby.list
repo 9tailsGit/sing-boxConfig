@@ -1,6 +1,7 @@
 # Emby补充列表
 # 域名后缀匹配
 DOMAIN-SUFFIX,niceduck.lol
+DOMAIN-SUFFIX,as174.de
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100  
 #好鸭列表
@@ -16,3 +17,4 @@ DOMAIN,loacl.emby.moe
 DOMAIN,iris.niceduck.lol
 DOMAIN,cf.irisnb.com
 DOMAIN,emby.as174.de
+DOMAIN,hxd.as174.de
